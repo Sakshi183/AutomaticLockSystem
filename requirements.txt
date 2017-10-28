@@ -1,0 +1,4 @@
+python
+python-opencv
+xdotool
+python-tkinter
