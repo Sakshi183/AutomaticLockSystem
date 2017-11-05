@@ -1,5 +1,5 @@
 # AutomaticLockSystem
-Automatic Lock System is a securty tool for linux-Ubuntu for identification of authorised user.
+Automatic Lock System is a security tool for linux-Ubuntu for identification of authorised user.
 It allows access to use the system only when an authorised user is there in front of the webcam.It gets automatically locked in abscence of the authorised user.
 
 
