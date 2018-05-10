@@ -8,12 +8,18 @@ It is based on image processing and machine learning.
 # Steps to use this tool:
 
   1.Clone the repository and migrate to this directory.
+  
   2.Open the directory in terminal.
+  
   3.Install '''requirements.txt''' file.
   
   4.Run '''capture_positives.py''' file.
+  
   5.After capturing os your face is done, run '''train.py''' file.
+  
   6.At last run '''facerecog.py''' file to start the tool.
+  
           OR
+          
   After installing the '''reqiurements.txt''' you can also run tkinter.py
 
